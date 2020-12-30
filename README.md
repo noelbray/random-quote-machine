@@ -17,3 +17,5 @@ Note:
 
 The "Tweet" button doesn't currently work. 
 I didn't want to have to sign up for twitter. But since the tweet button being on there was part of the freeCodeCamp challenge, I put it on there. 
+
+Checkout my [React Random Quote Machine Codepen](https://codepen.io/nwbnwb/full/BajbvNQ).
