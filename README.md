@@ -15,5 +15,5 @@ Click the "New Quote" button and see what happens.
 
 Note: 
 
-The "Tweet" buttton doesn't currently work. 
-I didn't want to have to sign up for twitter. But since the button being on there was part of the freeCodeCamp challenge, I put it on there. 
+The "Tweet" button doesn't currently work. 
+I didn't want to have to sign up for twitter. But since the tweet button being on there was part of the freeCodeCamp challenge, I put it on there. 
