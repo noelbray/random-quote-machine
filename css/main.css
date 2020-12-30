@@ -1,0 +1,34 @@
+/* 
+body {
+  background-color: red;
+} 
+*/
+
+/*  
+#root {
+  border: 1px solid green;
+  height: 100%;
+  margin: -8px;
+} 
+*/
+
+/* 
+#text {
+  border: 1px solid red;
+} 
+*/
+
+/* 
+#quote-box {
+  min-height: "50px"
+} 
+*/
+
+#new-quote:hover, #tweet-quote:hover {
+  transform: skewX(160deg);
+  border: 1px solid red;
+}
+
+#new-quote:active, #tweet-quote:active {
+  transform: none;
+}
