@@ -19,3 +19,7 @@ The "Tweet" button doesn't currently work.
 I didn't want to have to sign up for twitter. But since the tweet button being on there was part of the freeCodeCamp challenge, I put it on there. 
 
 Checkout my [React Random Quote Machine Codepen](https://codepen.io/nwbnwb/full/BajbvNQ).
+
+Side Note: 
+
+If you have any suggestions on how to improve my code; or how I can or what I can do to become a better web developer, feel free to send me a message. 
