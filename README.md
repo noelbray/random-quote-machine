@@ -1,5 +1,5 @@
 # React Random Quote Machine
-React Random Quote Machine is a Free Code Camp frontend challenge I completed on Codepen.
+*__React Random Quote Machine is a Free Code Camp frontend challenge I completed on Codepen.__*
 
 *The code is raw, unrefactored.* Since this was a code challenge I was trying to complete, I didn't delete the commented out code because I was more concerned with learning, experimenting, and completing the challenge than commented out code affecting the code's appearance. 
 
